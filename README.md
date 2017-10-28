@@ -1,6 +1,8 @@
 # Blockchain
 BMSTU project
 
+![Image of BlockChain](https://pp.userapi.com/c621703/v621703196/241e6/N1qyNA_mBoA.jpg)
+
 # 0 для того, чтобы решать проблему 1 раз, предлагаю перейти на общую среду разработки (предлагаю рассмотреть clion)
 
 # 1 определить структуру блоков
